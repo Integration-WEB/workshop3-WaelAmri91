@@ -25,7 +25,28 @@ body {
 }
 
 /*============= FOOTER =============*/
+ul{
+  list-style-type: none;
+  max-width:16rem;
+  margin:0 auto;
+}
+i{
+  color: white;
+  font-size: 2.3em;
+}
 
+.facebook:hover{
+  color:mediumblue;
+}
+.youtube:hover{
+  color:red;
+}
+.instagram:hover{
+  color:brown;
+}
+.twitter:hover{
+  color: deepskyblue;
+}
 /*===== FIXED BACKGROUND IMG =====*/
 .fixed {
   position: fixed;
